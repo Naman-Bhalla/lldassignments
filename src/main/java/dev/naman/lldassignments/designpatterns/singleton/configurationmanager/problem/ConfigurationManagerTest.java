@@ -1,5 +1,6 @@
-package dev.naman.lldassignments.designpatterns.singleton.configurationmanager.solution;
+package dev.naman.lldassignments.designpatterns.singleton.configurationmanager.problem;
 
+import dev.naman.lldassignments.designpatterns.singleton.configurationmanager.solution.ConfigurationManager;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.io.TempDir;
@@ -8,7 +9,8 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertSame;
 
 class ConfigurationManagerTest {
     @TempDir

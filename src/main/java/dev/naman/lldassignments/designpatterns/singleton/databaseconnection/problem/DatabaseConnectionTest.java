@@ -1,12 +1,15 @@
-package dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution;
+package dev.naman.lldassignments.designpatterns.singleton.databaseconnection.problem;
 
-import org.junit.jupiter.api.Test;
+import dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution.DatabaseConnection;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertSame;
 
 class DatabaseConnectionTest {
     private final ByteArrayOutputStream outputStreamCaptor = new ByteArrayOutputStream();

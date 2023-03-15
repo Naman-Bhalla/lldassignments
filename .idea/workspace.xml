@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5850578-99b5-44af-beac-878211b1ca6d" name="Changes" comment="" />
+    <list default="true" id="e5850578-99b5-44af-beac-878211b1ca6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/printspooler/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/printspooler/solution/PrintSpooler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/printspooler/solution/PrintSpoolerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/problem/ConfigurationManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/problem/ConfigurationManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/solution/ConfigurationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/solution/ConfigurationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/solution/ConfigurationManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/solution/ConfigurationManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/problem/DatabaseConnectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/problem/DatabaseConnectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/solution/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/solution/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/solution/DatabaseConnectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/solution/DatabaseConnectionTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,7 +44,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2N48bK7F8437CXSHG3Xnws4L4EV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,9 +55,93 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dev.naman.lldassignments.designpatterns.singleton.configurationmanager.problem" />
+      <recent name="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.problem" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PrintSpoolerTest">
+    <configuration name="ConfigurationManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lldassignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.naman.lldassignments.designpatterns.singleton.configurationmanager.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designpatterns.singleton.configurationmanager.solution" />
+      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designpatterns.singleton.configurationmanager.solution.ConfigurationManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseConnectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lldassignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution" />
+      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution.DatabaseConnectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseConnectionTest.testConnectAndExecuteQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lldassignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution" />
+      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution.DatabaseConnectionTest" />
+      <option name="METHOD_NAME" value="testConnectAndExecuteQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintSpoolerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lldassignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.naman.lldassignments.designpatterns.singleton.printspooler.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designpatterns.singleton.printspooler.solution" />
+      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designpatterns.singleton.printspooler.solution.PrintSpoolerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrintSpoolerTest" />
+        <item itemvalue="JUnit.ConfigurationManagerTest" />
+        <item itemvalue="JUnit.DatabaseConnectionTest" />
+        <item itemvalue="JUnit.DatabaseConnectionTest.testConnectAndExecuteQuery" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,7 +150,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678912064796</updated>
+      <workItem from="1678912065674" duration="1686000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
