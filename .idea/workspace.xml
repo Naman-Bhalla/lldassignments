@@ -5,21 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5850578-99b5-44af-beac-878211b1ca6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/printspooler/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/printspooler/solution/PrintSpooler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/printspooler/solution/PrintSpoolerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem/OnlineStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/InvoicePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/InvoicePrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/OnlineStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/OnlineStoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/ProductCatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/ProductCatalogTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/problem/ConfigurationManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/problem/ConfigurationManagerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/solution/ConfigurationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/solution/ConfigurationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/solution/ConfigurationManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/configurationmanager/solution/ConfigurationManagerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/problem/DatabaseConnectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/problem/DatabaseConnectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/solution/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/solution/DatabaseConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/solution/DatabaseConnectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/singleton/databaseconnection/solution/DatabaseConnectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/problem/TextEditorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/problem/TextEditorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/CapitalizeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/CapitalizeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/LowercaseDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/LowercaseDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/SimpleTextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/SimpleTextEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/TextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/TextEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/TextEditorDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/TextEditorDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/TextEditorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/TextEditorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/UppercaseDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/UppercaseDecorator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,83 +56,99 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dev.naman.lldassignments.designpatterns.decorator.texteditor.problem" />
+      <recent name="dev.naman.lldassignments.designpatterns.singleton.printspooler.problem" />
       <recent name="dev.naman.lldassignments.designpatterns.singleton.configurationmanager.problem" />
       <recent name="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.problem" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PrintSpoolerTest">
-    <configuration name="ConfigurationManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CartTest">
+    <configuration name="CartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lldassignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dev.naman.lldassignments.designpatterns.singleton.configurationmanager.solution.*" />
+          <option name="PATTERN" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designpatterns.singleton.configurationmanager.solution" />
-      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designpatterns.singleton.configurationmanager.solution.ConfigurationManagerTest" />
+      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem" />
+      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem.CartTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatabaseConnectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InvoicePrinterTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lldassignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution.*" />
+          <option name="PATTERN" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution" />
-      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution.DatabaseConnectionTest" />
+      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem" />
+      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem.InvoicePrinterTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatabaseConnectionTest.testConnectAndExecuteQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OnlineStoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lldassignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution.*" />
+          <option name="PATTERN" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution" />
-      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.solution.DatabaseConnectionTest" />
-      <option name="METHOD_NAME" value="testConnectAndExecuteQuery" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.solution" />
+      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.solution.OnlineStoreTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintSpoolerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductCatalogTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lldassignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dev.naman.lldassignments.designpatterns.singleton.printspooler.solution.*" />
+          <option name="PATTERN" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designpatterns.singleton.printspooler.solution" />
-      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designpatterns.singleton.printspooler.solution.PrintSpoolerTest" />
+      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem" />
+      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem.ProductCatalogTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCatalogTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lldassignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.solution" />
+      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.solution.ProductCatalogTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,10 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PrintSpoolerTest" />
-        <item itemvalue="JUnit.ConfigurationManagerTest" />
-        <item itemvalue="JUnit.DatabaseConnectionTest" />
-        <item itemvalue="JUnit.DatabaseConnectionTest.testConnectAndExecuteQuery" />
+        <item itemvalue="JUnit.CartTest" />
+        <item itemvalue="JUnit.ProductCatalogTest (1)" />
+        <item itemvalue="JUnit.InvoicePrinterTest (1)" />
+        <item itemvalue="JUnit.ProductCatalogTest" />
+        <item itemvalue="JUnit.OnlineStoreTest" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +172,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678912064796</updated>
-      <workItem from="1678912065674" duration="1686000" />
+      <workItem from="1678912065674" duration="3717000" />
+      <workItem from="1678988721157" duration="521000" />
     </task>
     <servers />
   </component>
