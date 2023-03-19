@@ -2,6 +2,12 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/builder/xyz1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/builder/xyz1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/factory/fileparser/solution/factoryfileparsersolution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/factory/fileparser/solution/factoryfileparsersolution/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>

@@ -5,26 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5850578-99b5-44af-beac-878211b1ca6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem/OnlineStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/CartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/InvoicePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/InvoicePrinterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/OnlineStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/OnlineStoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/ProductCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/ProductCatalogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/CacheClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/CacheEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/CacheNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/ConsistentHashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/DistributedCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/RequestCollapser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/StripedExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/evictionpolicies/EvictionPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/evictionpolicies/EvictionStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/evictionpolicies/LfuEvictionStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/evictionpolicies/LruEvictionStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/writepolicies/WritePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/test/java/DistributedCacheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/interfacesegregation/ecommerceoperations/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/problem/TextEditorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/problem/TextEditorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/CapitalizeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/CapitalizeDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/LowercaseDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/LowercaseDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/SimpleTextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/SimpleTextEditor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/TextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/TextEditor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/TextEditorDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/TextEditorDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/TextEditorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/TextEditorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/UppercaseDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/solution/UppercaseDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/problem/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem/InvoicePrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/problem/InvoicePrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem/OnlineStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/problem/OnlineStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem/OnlineStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/problem/OnlineStoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem/ProductCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/problem/ProductCatalogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/InvoicePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/InvoicePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/InvoicePrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/InvoicePrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/OnlineStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/OnlineStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/OnlineStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/OnlineStoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/ProductCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/ProductCatalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/ProductCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/ProductCatalogTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +49,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -58,19 +75,37 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/namanbhalla/IdeaProjects/pubsubmachinecoding/lldassignments/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor" />
+      <recent name="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore" />
+      <recent name="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="dev.naman.lldassignments.designpatterns.decorator.texteditor.problem" />
       <recent name="dev.naman.lldassignments.designpatterns.singleton.printspooler.problem" />
@@ -78,89 +113,67 @@
       <recent name="dev.naman.lldassignments.designpatterns.singleton.databaseconnection.problem" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CartTest">
-    <configuration name="CartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lldassignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem" />
-      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem.CartTest" />
+  <component name="RunManager" selected="JUnit.DistributedCacheTest">
+    <configuration name="DistributedCacheTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solution" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DistributedCacheTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvoicePrinterTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lldassignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem" />
-      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem.InvoicePrinterTest" />
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="DistributedCacheTest.testCacheEviction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solution" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DistributedCacheTest" />
+      <option name="METHOD_NAME" value="testCacheEviction" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnlineStoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lldassignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.solution" />
-      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.solution.OnlineStoreTest" />
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="DistributedCacheTest.testConcurrentPutAndGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solution" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DistributedCacheTest" />
+      <option name="METHOD_NAME" value="testConcurrentPutAndGet" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductCatalogTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lldassignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem" />
-      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.problem.ProductCatalogTest" />
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="DistributedCacheTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solution" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DistributedCacheTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductCatalogTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="dev.naman.lldassignments in lldassignments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lldassignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.solution.*" />
+          <option name="PATTERN" value="dev.naman.lldassignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.solution" />
-      <option name="MAIN_CLASS_NAME" value="dev.naman.lldassignments.designprinciples.srp.onlinestore.solution.ProductCatalogTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="dev.naman.lldassignments" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CartTest" />
-        <item itemvalue="JUnit.ProductCatalogTest (1)" />
-        <item itemvalue="JUnit.InvoicePrinterTest (1)" />
-        <item itemvalue="JUnit.ProductCatalogTest" />
-        <item itemvalue="JUnit.OnlineStoreTest" />
+        <item itemvalue="JUnit.DistributedCacheTest" />
+        <item itemvalue="JUnit.DistributedCacheTest.testCacheEviction" />
+        <item itemvalue="JUnit.DistributedCacheTest.testConcurrentPutAndGet" />
+        <item itemvalue="JUnit.DistributedCacheTest.testDelete" />
+        <item itemvalue="JUnit.dev.naman.lldassignments in lldassignments" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +186,10 @@
       <option name="presentableId" value="Default" />
       <updated>1678912064796</updated>
       <workItem from="1678912065674" duration="3717000" />
-      <workItem from="1678988721157" duration="521000" />
+      <workItem from="1678988721157" duration="3984000" />
+      <workItem from="1679164887207" duration="910000" />
+      <workItem from="1679170371998" duration="5417000" />
+      <workItem from="1679252469174" duration="5973000" />
     </task>
     <servers />
   </component>
