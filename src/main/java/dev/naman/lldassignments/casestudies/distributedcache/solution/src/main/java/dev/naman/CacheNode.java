@@ -1,9 +1,6 @@
 package dev.naman;
 
-import dev.naman.evictionpolicies.EvictionPolicy;
-import dev.naman.evictionpolicies.EvictionStrategy;
-import dev.naman.evictionpolicies.LfuEvictionStrategy;
-import dev.naman.evictionpolicies.LruEvictionStrategy;
+import dev.naman.evictionpolicies.*;
 import dev.naman.writepolicies.WritePolicy;
 
 import java.util.HashMap;
@@ -25,7 +22,7 @@ public class CacheNode {
         this.nodeId = nodeId;
         this.capacity = capacity;
         this.writePolicy = writePolicy;
-        this.evictionStrategy = createEvictionStrategy(evictionPolicy);
+        this.evictionStrategy = EvictionStrategyFactory.createEvictionStrategy(evictionPolicy);
         this.cache = new HashMap<>(capacity);
         this.stripedExecutorService = new StripedExecutorService(numStripes);
     }
@@ -73,17 +70,6 @@ public class CacheNode {
     public synchronized void delete(String key) {
         cache.remove(key);
         deleteFromBackendStore(key);
-    }
-
-    private EvictionStrategy createEvictionStrategy(EvictionPolicy evictionPolicy) {
-        switch (evictionPolicy) {
-            case LRU:
-                return new LruEvictionStrategy();
-            case LFU:
-                return new LfuEvictionStrategy();
-            default:
-                throw new IllegalArgumentException("Invalid eviction policy: " + evictionPolicy);
-        }
     }
 
     // These methods should be implemented to interact with the backend store

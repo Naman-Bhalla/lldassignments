@@ -5,41 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5850578-99b5-44af-beac-878211b1ca6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/CacheClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/CacheEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/CacheNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/ConsistentHashing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/DistributedCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/RequestCollapser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/StripedExecutorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/evictionpolicies/EvictionPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/evictionpolicies/EvictionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/evictionpolicies/LfuEvictionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/evictionpolicies/LruEvictionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/writepolicies/WritePolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/test/java/DistributedCacheTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/interfacesegregation/ecommerceoperations/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/problem/TextEditorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designpatterns/decorator/texteditor/problem/TextEditorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/problem/CartTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem/InvoicePrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/problem/InvoicePrinterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem/OnlineStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/problem/OnlineStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem/OnlineStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/problem/OnlineStoreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/problem/ProductCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/problem/ProductCatalogTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/CartTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/InvoicePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/InvoicePrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/InvoicePrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/InvoicePrinterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/OnlineStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/OnlineStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/OnlineStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/OnlineStoreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/ProductCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/ProductCatalog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/designprinciples/srp/onlinestore/solution/ProductCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/solid/singleresponsibility/onlinestore/solution/ProductCatalogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/evictionpolicies/EvictionStrategyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/CacheNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/naman/lldassignments/casestudies/distributedcache/solution/src/main/java/dev/naman/CacheNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +156,7 @@
       <workItem from="1678988721157" duration="3984000" />
       <workItem from="1679164887207" duration="910000" />
       <workItem from="1679170371998" duration="5417000" />
-      <workItem from="1679252469174" duration="5973000" />
+      <workItem from="1679252469174" duration="6374000" />
     </task>
     <servers />
   </component>
