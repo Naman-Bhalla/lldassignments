@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 public class OnlineStoreTest {
 
-    private dev.naman.lldassignments.designprinciples.srp.onlinestore.solution.OnlineStore onlineStore;
+    private OnlineStore onlineStore;
 
     @BeforeEach
     public void setUp() {
